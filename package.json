@@ -1,0 +1,14 @@
+{
+  "name": "jsclean",
+  "version": "1.0.0",
+  "description": "jsClean deobfuscate and beautify javascript sources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lorenzo Stella",
+  "license": "ISC",
+  "dependencies": {
+    "js-beautify": "^1.6.2"
+  }
+}
